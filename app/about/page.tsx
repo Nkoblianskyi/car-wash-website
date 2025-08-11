@@ -8,7 +8,7 @@ export default function AboutPage() {
       {/* Hero Section for About Us */}
       <section className="w-full py-20 md:py-32 lg:py-48 relative flex items-center justify-center text-center overflow-hidden">
         <Image
-          src="/placeholder.svg?height=1080&width=1920"
+          src="/afd16d852fccb71e4ac621c8cf0a7310.jpg"
           alt="About Us Hero"
           layout="fill"
           objectFit="cover"
@@ -31,7 +31,7 @@ export default function AboutPage() {
         <div className="container px-4 md:px-6 max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center">
           <div className="relative h-64 md:h-96 rounded-lg overflow-hidden shadow-xl border border-primary">
             <Image
-              src="/placeholder.svg?height=600&width=800"
+              src="/a18b30ba55d42ea5b453cbea5f31b1ef.jpg"
               alt="Our Story"
               layout="fill"
               objectFit="cover"
@@ -84,7 +84,7 @@ export default function AboutPage() {
           </div>
           <div className="relative h-64 md:h-96 rounded-lg overflow-hidden shadow-xl border border-primary order-1 md:order-2">
             <Image
-              src="/placeholder.svg?height=600&width=800"
+              src="/9c5312e44da26e46789a8f5d35510f79.jpg"
               alt="Our Values"
               layout="fill"
               objectFit="cover"
