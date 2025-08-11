@@ -168,8 +168,8 @@ export default function ContactFormSection() {
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
               </svg>
             </div>
-            <h3 className="text-xl font-bold text-accent mb-2">Message Sent!</h3>
-            <p className="text-muted-foreground">Thank you for your message! We will get back to you soon.</p>
+            <h3 className="text-xl font-bold text-white mb-2">Message Sent!</h3>
+            <p className="text-white">Thank you for your message! We will get back to you soon.</p>
           </div>
         </div>
       )}
