@@ -17,10 +17,10 @@ export default function AboutPage() {
         />
         <div className="absolute inset-0 bg-black opacity-70 z-10"></div>
         <div className="container px-4 md:px-6 max-w-3xl relative z-20 text-foreground flex flex-col items-center">
-          <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight leading-tight text-accent">
+          <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight leading-tight text-white drop-shadow-2xl">
             About HyperSwap
           </h1>
-          <p className="mt-4 text-lg md:text-xl lg:text-2xl max-w-2xl mx-auto text-foreground">
+          <p className="mt-4 text-lg md:text-xl lg:text-2xl max-w-2xl mx-auto text-white">
             Our commitment to excellence and passion for pristine vehicles.
           </p>
         </div>
