@@ -93,12 +93,12 @@ export default function ContactFormSection() {
                   <SelectTrigger className="bg-input border-2 border-primary/30 text-foreground focus:border-accent transition-colors">
                     <SelectValue placeholder="Select a service" />
                   </SelectTrigger>
-                  <SelectContent className="bg-black border-2 border-primary/30">
+                  <SelectContent className="bg-white border-2 border-primary/30">
                     {services.map((service) => (
                       <SelectItem
                         key={service.slug}
                         value={service.slug}
-                        className="text-white hover:bg-primary/20 focus:bg-primary/20"
+                        className="text-black hover:bg-primary/20 focus:bg-primary/20"
                       >
                         {service.name}
                       </SelectItem>
